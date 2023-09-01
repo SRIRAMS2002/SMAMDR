@@ -42,11 +42,11 @@ export default function Example() {
                     </div>
                     <div className="mt-3 text-center sm:ml-4 sm:mt-0 sm:text-left">
                       <Dialog.Title as="h3" className="text-base font-semibold leading-6 text-gray-900">
-                        sriram
+                        sriram gh
                       </Dialog.Title>
                       <div className="mt-2">
                         <p className="text-sm text-gray-500">
-                          Are you sure you want to deactivate your account? All of your data will be permanently
+                          Are you sure you want you want you want you want to deactivate your account? All of your data will be permanently
                           removed. This action cannot be undone.
                         </p>
                       </div>
@@ -67,7 +67,7 @@ export default function Example() {
                     onClick={() => setOpen(false)}
                     ref={cancelButtonRef}
                   >
-                    Cancel
+                    Cancelhuh
                   </button>
                 </div>
               </Dialog.Panel>
